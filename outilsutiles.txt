@@ -1,0 +1,8 @@
+*************
+Outils utiles
+*************
+Anki: Système de cartes pour mémoriser des informations
+Microsoft 365: Ensemble d'applications propre à Microsoft
+Microsoft Drive: Sauvegarde des documents sur un ordinateur
+Teams: Outil de discussion entre collaborateurs
+Github: Outil de mise en commun de fichiers fonctionnant de manière arborescente.
