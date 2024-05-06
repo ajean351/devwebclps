@@ -2,8 +2,8 @@
 Langages utiles
 ***************
 
-HTML: Code de base des pages web.
-CSS: Mise en forme du code des pages Web.
-CSV: Fichiers utilisés pour le stockage d'informations.
-Javascript: Langage de programmation permettant de faire fonctionner des applications clientes.
-XML: Fichiers utilisés pour le stockage d'informations.
+HTML: Code de base des pages web
+CSS: Mise en forme du code des pages Web
+CSV: Fichiers utilisés pour le stockage d'informations
+Javascript: Langage de programmation permettant de faire fonctionner des applications clientes
+XML: Fichiers utilisés pour le stockage d'informations
