@@ -2,6 +2,6 @@
 Définition
 **********
 
-NoCode: Outils permettant de développer sans écrire de code.
-LowCode: Un mélange de NoCode et de Coding.
+NoCode: Outils permettant de développer sans écrire de code
+LowCode: Un mélange de NoCode et de Coding
 SaaS: Software as a Service - Application rendu disponible sur le réseau
